@@ -1,5 +1,5 @@
-<div style="background-color: #002676; padding: 20px;">
-<img src="https://live-masters-in-computational-social-science.pantheon.berkeley.edu/wp-content/uploads/2025/04/image-3-2.png" alt="MaCSS" width="200">
+<div style="padding: 20px;">
+<img src="https://coescetdev.wpengine.com/wp-content/uploads/image-2.png" alt="MaCSS" width="200">
 </div>
 
 **Computational Social Science 1A**
